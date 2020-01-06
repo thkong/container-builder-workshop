@@ -41,6 +41,10 @@ const (
 <div class="card-content white">
 <table class="bordered">
   <tbody>
+  	<tr>
+  	  <td>Owner</td>
+  	  <td>Taeho Kong</td>
+	</tr>
 	<tr>
 	  <td>Name</td>
 	  <td>{{.Name}}</td>
